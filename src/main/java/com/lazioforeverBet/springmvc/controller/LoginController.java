@@ -50,6 +50,7 @@ public class LoginController {
 		}else{
 			result.rejectValue("userName","invaliduser");
 			return "login";
+		
 		}
 	 }
 	 
