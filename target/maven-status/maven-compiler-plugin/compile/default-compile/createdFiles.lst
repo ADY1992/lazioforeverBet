@@ -1,4 +1,4 @@
-com\lazioforeverBet\springmvc\form\LoginForm.class
 com\lazioforeverBet\springmvc\controller\LoginController.class
 com\lazioforeverBet\springmvc\dao\LoginDao.class
+com\lazioforeverBet\springmvc\form\LoginForm.class
 com\lazioforeverBet\springmvc\dto\Users.class
